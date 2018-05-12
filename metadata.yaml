@@ -1,0 +1,44 @@
+_repo: Out-Like-a-Light_24444
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Freas, Kelly
+    alias: Freas, Frank Kelly
+    birthdate: 1922
+    deathdate: 2005
+    gutenberg_agent_id: '8302'
+    url: http://www.gutenberg.org/2009/agents/8302
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Kelly_Freas
+covers:
+- cover_type: archival
+  image_path: 24444-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garrett, Gordon Randall
+    - Jorgensen, Ivar
+    - Garret, Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia: http://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'United States. Federal Bureau of Investigation -- Fiction'
+- !lcsh 'Telepathy -- Fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcc 'PS'
+title: Out Like a Light
+url: http://www.gutenberg.org/ebooks/24444
